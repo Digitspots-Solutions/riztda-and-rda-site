@@ -1,0 +1,42 @@
+{
+  "businessName": "Riztda and Rda",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Excellence in Manufacturing, Built for Nigeria",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Riztda and Rda - Your Trusted Manufacturing Partner in Port Harcourt. We deliver quality manufactured products with precision, reliability, and commitment to excellence. Serving businesses across Rivers State and beyond.",
+      "imagePrompt": "Modern industrial manufacturing facility in Nigeria, clean production floor with machinery and equipment, professional workers in safety gear, bright natural lighting through large windows, blue and steel color tones, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Riztda and Rda is a leading manufacturing company based in Oyigbo, Port Harcourt. We combine modern manufacturing techniques with deep understanding of the Nigerian market to deliver products that meet international standards while serving local needs. Our facility at Old Aba Road is equipped with state-of-the-art machinery and operated by skilled professionals committed to quality and timely delivery. We pride ourselves on being a reliable partner for businesses seeking consistent, high-quality manufactured goods.",
+      "imagePrompt": "Professional Nigerian manufacturing team collaborating in a modern factory setting, diverse group reviewing quality control documents, manufacturing equipment in background, natural office lighting, corporate professional atmosphere, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Manufacturing Solutions: Tailored production runs designed to meet your specific requirements and quality standards.\n\nQuality Assurance: Rigorous inspection processes ensuring every product meets our exacting standards before delivery.\n\nSupply Chain Management: Reliable inventory management and timely delivery to keep your operations running smoothly.\n\nConsultation Services: Expert guidance on material selection, production optimization, and cost-effective manufacturing solutions.",
+      "imagePrompt": "Four panel collage showing different aspects of Nigerian manufacturing: quality control inspection, production line in operation, warehouse inventory management, and business consultation meeting, industrial aesthetic, professional photography",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Get in touch with Riztda and Rda today. Our team is available to answer your questions, provide quotations, and schedule facility tours. We're located in Oyigbo, Port Harcourt, and serve clients across Rivers State and throughout Nigeria. Contact us by phone, WhatsApp, or visit our facility at 15 Old Aba Road.",
+      "imagePrompt": "Professional Nigerian business contact scene, modern office reception area in Port Harcourt, friendly staff member at desk with phone and computer, clean corporate environment, warm welcoming lighting, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 806 382 1573",
+    "email": "info@riztdarda.com",
+    "address": "15 Old Aba Road, Oyigbo, Port Harcourt, Rivers State, Nigeria",
+    "whatsapp": "https://wa.me/2348063821573"
+  }
+}
